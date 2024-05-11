@@ -43,6 +43,18 @@
     #ifndef vacuus
         #define vacuus void
     #endif
+
+    #ifndef verus
+        #define verus true
+    #endif
+
+    #ifndef falsum
+        #define falsum false
+    #endif
+
+    #ifndef dialectice
+        #define dialectice bool
+    #endif
     
 
 #endif // LATINUS_TYPES_H
