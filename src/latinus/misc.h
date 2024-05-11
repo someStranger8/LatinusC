@@ -34,4 +34,24 @@
     #ifndef divido
         #define divido /
     #endif
+
+    #ifndef est_non_parilis
+        #define est_non_parilis !=
+    #endif
+
+    #ifndef est_minor
+        #define est_minor <
+    #endif
+
+    #ifndef est_maior
+        #define est_maior >
+    #endif
+
+    #ifndef est_maior_aut_parilis
+        #define est_maior_aut_parilis >=
+    #endif
+
+    #ifndef est_minor_aut_parilis
+        #define est_minor_aut_parilis <=
+    #endif
 #endif
