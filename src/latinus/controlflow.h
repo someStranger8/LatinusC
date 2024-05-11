@@ -23,6 +23,10 @@
     #ifndef effecio
         #define effecio do
     #endif
+
+    #ifndef dum
+        #define dum while
+    #endif
     
     #ifndef aliter
         #define aliter else
