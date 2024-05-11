@@ -54,4 +54,8 @@
     #ifndef est_minor_aut_parilis
         #define est_minor_aut_parilis <=
     #endif
+
+    #ifndef annotatio
+        #define annotatio //
+    #endif
 #endif
