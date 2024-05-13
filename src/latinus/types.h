@@ -8,8 +8,8 @@
         #define constans const
     #endif
 
-    #ifndef necessario
-        #define necessario auto
+    #ifndef automa
+        #define automa auto
     #endif
 
     #ifndef numerus
