@@ -23,7 +23,7 @@ Example program:
 #include <stdio.h>
 
 numerus primus(numerus argc, littera* argv[]) { 
-    printf("salve, mundus! \n");
+    printf("salve, mundum! \n");
     reditus 0;
 }
 ```
